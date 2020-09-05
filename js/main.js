@@ -14,6 +14,7 @@ window.onload = function () {
 
 	var map = new BMap.Map("container");
 	map.setMapStyle({style : MAP_STYLE});
+	map.enableScrollWheelZoom(true);
 	map.addEventListener("zoomend", function () {
 		hideOverlayMarkers(map);
 	});
