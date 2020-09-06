@@ -88,7 +88,7 @@ var SPEC_POS = {
 var MAP_TITLE = "铁中2020届高三1班蹭饭图";
 
 var ABOUT = {
-	"作者" : ["乘风破浪"],
-	"同学联系方式" : ["<a href='https://wwa.lanzous.com/iCT1Ugdezkd'>电话</a>", "<a href='https://wwa.lanzous.com/iE4zjgekn1e'>详细住址</a>", "密请询问管理员"]
+	"作者" : ["<a href='https://qm.qq.com/cgi-bin/qm/qr?k=LZOzNHQZhAiLjuCFuvxpDKatFFH1y_RP&noverify=0'>乘风破浪</a>"],
+	"同学联系方式" : ["<a href='https://wwa.lanzous.com/iCT1Ugdezkd'>电话</a>", "<a href='https://wwa.lanzous.com/iE4zjgekn1e'>详细住址</a>", "密码请询问管理员"]
 	//"框架" : ["<a href='https://github.com/yuehaowang/irmap' target='_blank'>irmap</a>", "Bootstrap", "百度地图"]
 };
